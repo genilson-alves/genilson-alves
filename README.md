@@ -1,10 +1,10 @@
 ## Olá! Eu me chamo Genilson e é um prazer. ✨
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genilson-alves-ferreira-da-silva-3800921a4/)
+<a href="https://www.linkedin.com/in/genilson-alves-ferreira-da-silva-3800921a4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=genilson-alves&locale=pt-br" height=200>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genilson-alves&langs_count=3&locale=pt-br" height=200>
+  <img src="https://github-readme-stats.vercel.app/api?username=genilson-alves&theme=radical&locale=pt-br" height=200>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genilson-alves&langs_count=3&theme=radical&locale=pt-br" height=200>
 </div>
 
 ## Tecnologias que utilizo ⬇️
