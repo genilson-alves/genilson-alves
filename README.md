@@ -4,7 +4,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=genilson-alves&theme=radical&show_icons=true&locale=pt-br" height=200>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genilson-alves&layout=compact&theme=radical&locale=pt-br" height=200>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genilson-alves&theme=radical&locale=pt-br" height=200>
 </div>
 
 ## Tecnologias que utilizo ⬇️
