@@ -5,13 +5,15 @@
 
 - 🔭 I’m currently working on [movies](https://github.com/genilson-alves/movies).
 
-- 🌱 I’m currently learning **Typescript and Redux**.
+- 🌱 I’m currently learning **Typescript and React**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/genilson-alves](https://github.com/genilson-alves).
 
 - 📫 How to reach me: **genilson.alves9555@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
+[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genilson-alves0/)
 
 <h3 align="left">Languages and Tools:</h3>
 
