@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genilson-alves&label=Profile%20views&color=0e75b6&style=flat" alt="genilson-alves" /> </p>
 
-- 🔭 I’m currently working on [movies](https://github.com/genilson-alves/movies).
+- 🔭 I’m currently working on [popcorn](https://github.com/genilson-alves/popcorn).
 
 - 🌱 I’m currently learning **Typescript and React**.
 
