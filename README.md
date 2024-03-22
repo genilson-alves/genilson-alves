@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genilson-alves&label=Profile%20views&color=0e75b6&style=flat" alt="genilson-alves" /> </p>
 
-- 🔭 I’m currently working on [popcorn](https://github.com/genilson-alves/popcorn).
+- 🔭 I’m currently working on learning a new technology
 
-- 🌱 I’m currently learning **Typescript and React**.
+- 🌱 I’m currently learning **NodeJS**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/genilson-alves](https://github.com/genilson-alves).
 
