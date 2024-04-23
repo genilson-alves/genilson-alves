@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Genilson!</h1>
-<h3 align="center">A new developer from Brazil.</h3>
+<h3 align="center">A front-end developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genilson-alves&label=Profile%20views&color=0e75b6&style=flat" alt="genilson-alves" /> </p>
 
