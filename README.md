@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJS**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/genilson-alves](https://github.com/genilson-alves).
+- 👨‍💻 All of my projects are available [here](https://github.com/genilson-alves).
 
 - 📫 How to reach me: **genilson.alves9555@gmail.com**
 
