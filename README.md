@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/genilson-alves).
 
-- 📫 How to reach me: **genilson.alves9555@gmail.com**
+- 📫 How to reach me: **1alves.genilson@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
