@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on learning a new technology
 
-- 🌱 I’m currently learning **NodeJS**.
+- 🌱 I’m currently learning **Node.js**.
 
 - 👨‍💻 All of my projects are available [here](https://github.com/genilson-alves).
 
