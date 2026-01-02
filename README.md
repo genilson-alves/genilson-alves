@@ -1,37 +1,20 @@
-<h1 align="center">Hi 👋, I'm Genilson!</h1>
-<h3 align="center">A front-end developer.</h3>
+## Good to see you here! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genilson-alves&label=Profile%20views&color=0e75b6&style=flat" alt="genilson-alves" /> </p>
+Hello there, I am Genilson, a recent Analysis and Systems Development graduate. 
 
-- 🔭 I’m currently working on learning a new technology
+I am a tech and japanese enthusiast. Always open to collaborating on projects and ideas. 
 
-- 🌱 I’m currently learning **Node.js**.
+Feel free to connect with me anywhere.
 
-- 👨‍💻 All of my projects are available [here](https://github.com/genilson-alves).
+[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/genilson-alves/)](https://github.com/genilson-alves/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genilson-alves0/)](https://www.linkedin.com/in/genilson-alves0/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:1alves.genilson@gmail.com)](mailto:1alves.genilson@gmail.com)
 
-- 📫 How to reach me: **1alves.genilson@gmail.com**
+## Skills <img src="https://slackmojis.com/emojis/14805-kirby_pink/download" width="30">
 
-<h3 align="left">Connect with me:</h3>
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/genilson-alves0/)
+## A Few Quick Facts <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="30">
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genilson-alves&theme=radical&locale=en" height=200 alt="genilson-alves" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=genilson-alves&theme=radical&show_icons=true&locale=en" height=200 alt="genilson-alves" />
-</p>
+- 🔭 I’m currently working hard to become a **developer**
+- 📝 I love to learn new languages
+- 🎉 My hobbies are reading and watching.
